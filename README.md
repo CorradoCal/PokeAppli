@@ -25,3 +25,15 @@ CONSIGNES RESPECTEES:
 
 SCREENS:
 
+![Capture d’écran 2019-03-29 à 18.21.46.png](https://github.com/CorradoCal/PokeAppli/blob/master/ScreenReadMe/Capture%20d’écran%202019-03-29%20à%2018.21.46.png)
+
+![Capture d’écran 2019-03-29 à 18.25.47.png](https://github.com/CorradoCal/PokeAppli/blob/master/ScreenReadMe/Capture%20d’écran%202019-03-29%20à%2018.25.47.png)
+
+
+
+
+
+![Capture%20d’écran%202019-03-29%20à%2018.08.38](https://github.com/CorradoCal/PokeAppli/blob/master/ScreenReadMe/Capture%20d’écran%202019-03-29%20à%2018.08.38.png)
+
+
+
