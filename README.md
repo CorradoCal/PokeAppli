@@ -25,4 +25,3 @@ CONSIGNES RESPECTEES:
 
 SCREENS:
 
-https://user-images.githubusercontent.com/48919714/55253405-86df7500-5255-11e9-92e0-69e169a95f1c.png
