@@ -29,7 +29,7 @@ SCREENS:
 
 ![Capture d’écran 2019-03-29 à 18.25.47.png](https://github.com/CorradoCal/PokeAppli/blob/master/ScreenReadMe/Capture%20d’écran%202019-03-29%20à%2018.25.47.png)
 
-
+![Capture d’écran 2019-03-29 à 18.26.53.png](https://github.com/CorradoCal/PokeAppli/blob/master/ScreenReadMe/Capture%20d’écran%202019-03-29%20à%2018.26.53.png)
 
 
 
