@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "464812199916",
+    "firebase_url": "https://pokelist-f1b5f.firebaseio.com",
+    "project_id": "pokelist-f1b5f",
+    "storage_bucket": "pokelist-f1b5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464812199916:android:3d991b3fc10979ae",
+        "android_client_info": {
+          "package_name": "com.corrado.pokelist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464812199916-8bbfr9jlagkt0tjkfftsj93lako3l97u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeuC1q3GatLgcHIYksoNu1rq1s7vvHmVc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
