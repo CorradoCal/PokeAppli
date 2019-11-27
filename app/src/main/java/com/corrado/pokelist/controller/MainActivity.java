@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         tablayout = (TabLayout) findViewById(R.id.tablayout);
         viewPager = (ViewPager) findViewById(R.id.viewpager);
         adapter = new FragAdapter(getSupportFragmentManager());
+        tablayout.setTabTextColors(getResources().getColor(R.color.Whitecolor),getResources().getColor(R.color.colorAccent));
 
         adapter.AddFragment(new FragmentPokedex(), "Pokedex");
         adapter.AddFragment(new FragmentVideo(), "Video");
