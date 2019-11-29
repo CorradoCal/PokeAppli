@@ -21,6 +21,7 @@ public class FragmentVideo extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         v=inflater.inflate(R.layout.video_fragment, container, false);
+
         return v;
     }
 }

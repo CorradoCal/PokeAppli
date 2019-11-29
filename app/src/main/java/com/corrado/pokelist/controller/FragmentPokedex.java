@@ -72,8 +72,8 @@ public class FragmentPokedex extends Fragment implements PokemonCalls.Callbacks,
 
     @Override
     public void onResponse(@Nullable Pokemons pokemons) {
-        Log.d("MainActivity", "getCount: "+ pokemons.getCount());
-        Log.d("MainActivity", "getName: "+ pokemons.getResults().get(0).getName());
+        Log.d("PokedexActivity", "getCount: "+ pokemons.getCount());
+        Log.d("PokedexActivity", "getName: "+ pokemons.getResults().get(0).getName());
 
         this.mResultList = new ArrayList<>();
         mResultList.addAll(pokemons.getResults());
@@ -112,12 +112,11 @@ public class FragmentPokedex extends Fragment implements PokemonCalls.Callbacks,
 
         String id = result.getUrl().replace("https://pokeapi.co/api/v2/pokemon/", "");
         id = id.replace("/", "");
-        Log.d("MainActivity", "id: "+ id);
+        Log.d("PokedexActivity", "id: "+ id);
 
         Intent intent = new Intent(getActivity(), DetailPokemonActivity.class);
         intent.putExtra("id", Integer.parseInt(id));
         startActivity(intent);
-        Animatoo.animateZoom(getActivity().getApplicationContext());  //fire the zoom animation
     }
 
     // save list of pokemons into SharedPreferences
@@ -142,6 +141,6 @@ public class FragmentPokedex extends Fragment implements PokemonCalls.Callbacks,
             mCacheList = new ArrayList<>();
         }
 
-        Log.d("MainActivity", "loadData: "+ mCacheList.size());
+        Log.d("PokedexActivity", "loadData: "+ mCacheList.size());
     }
 }
