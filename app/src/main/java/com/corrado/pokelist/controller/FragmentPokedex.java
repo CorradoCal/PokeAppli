@@ -31,6 +31,10 @@ import java.util.List;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
+/**
+ * Created by Corrado on 20/12/2019.
+ */
+
 public class FragmentPokedex extends Fragment implements PokemonCalls.Callbacks,
         PokemonAdapter.OnItemClickListener{
 

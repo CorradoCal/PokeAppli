@@ -16,6 +16,10 @@ import com.corrado.pokelist.views.YTAdapter;
 
 import java.util.Vector;
 
+/**
+ * Created by Corrado on 20/12/2019.
+ */
+
 public class FragmentVideo extends Fragment {
     public View v;
     private RecyclerView recyclerView;

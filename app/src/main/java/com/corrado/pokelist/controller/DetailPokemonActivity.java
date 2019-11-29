@@ -18,6 +18,10 @@ import org.apache.commons.lang3.StringUtils;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 
+/**
+ * Created by Corrado on 20/12/2019.
+ */
+
 public class DetailPokemonActivity extends AppCompatActivity implements DetailPokemonCalls.Callbacks {
 
     @BindView(R.id.tv_name)

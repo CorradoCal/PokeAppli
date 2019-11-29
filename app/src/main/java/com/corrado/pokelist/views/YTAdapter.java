@@ -13,6 +13,10 @@ import com.corrado.pokelist.models.Videos;
 
 import java.util.List;
 
+/**
+ * Created by Corrado on 20/12/2019.
+ */
+
 public class YTAdapter extends RecyclerView.Adapter<YTAdapter.VideoViewHolder> {
 
     List<Videos> youtubeVideoList;

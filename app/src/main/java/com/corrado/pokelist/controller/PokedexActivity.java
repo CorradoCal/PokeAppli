@@ -10,6 +10,10 @@ import android.support.v7.app.AppCompatActivity;
 import com.corrado.pokelist.views.FragAdapter;
 import com.corrado.pokelist.R;
 
+/**
+ * Created by Corrado on 20/12/2019.
+ */
+
 public class PokedexActivity extends AppCompatActivity {
 
     private TabLayout tablayout;
