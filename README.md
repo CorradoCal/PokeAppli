@@ -10,7 +10,9 @@ PokeAppli affiche la liste des Pokémons aussi appélé Pokédex et utilise l'AP
 CONSIGNES RESPECTEES:
 
 
--Deux écrans : Un écran avec une liste et un écran détaillé des items de la liste.
+-Trois écrans : Un écran d'accueil, un écran avec deux fragments et un écran détaillé des items de la liste.
+
+-Deux Fragments : Un fragment avec la liste de pokemon et un fragment avec des video you tube sur les pokemon. 
 
 -Appel API Rest.
 
@@ -20,23 +22,38 @@ CONSIGNES RESPECTEES:
 
 -Animation entre 2 écrans et animation lorsque l'on scroll à travers la liste.
 
--Notifications via Firebase avec un compte crée (cf screen).
+-Video YouTube. 
 
+-Notifications via Firebase avec un compte crée (cf screen).
 
 
 SCREENS:
 
-Ecran Liste:
+Icône de l'application: 
 
 
-![Capture d’écran 2019-03-29 à 18.21.46.png](https://github.com/CorradoCal/PokeAppli/blob/master/ScreenReadMe/Capture%20d’écran%202019-03-29%20à%2018.21.46.png)
+![icone_screen.png](https://github.com/CorradoCal/PokeAppli/blob/master/ScreenReadMe/icone_screen.png)
+
+Ecran d'accueil:
+
+![accueil_screen.png](https://github.com/CorradoCal/PokeAppli/blob/master/ScreenReadMe/accueil_screen.png)
+
+Ecran avec Fragments:
+Fragment Liste:
+
+
+![Fragment_screen.png](https://github.com/CorradoCal/PokeAppli/blob/master/ScreenReadMe/Fragment_screen.png)
+
+Fragment Video: 
+
+
+![video_screen.png](https://github.com/CorradoCal/PokeAppli/blob/master/ScreenReadMe/video_screen.png)
 
 
 Ecrans détaillés:
 
 
-![Capture d’écran 2019-03-29 à 18.25.47.png](https://github.com/CorradoCal/PokeAppli/blob/master/ScreenReadMe/Capture%20d’écran%202019-03-29%20à%2018.25.47.png)
-![Capture d’écran 2019-03-29 à 18.26.53.png](https://github.com/CorradoCal/PokeAppli/blob/master/ScreenReadMe/Capture%20d’écran%202019-03-29%20à%2018.26.53.png)
+![details_screen.png](https://github.com/CorradoCal/PokeAppli/blob/master/ScreenReadMe/details_screen.png)
 
 
 Notifications via Firebase:
